@@ -18,16 +18,17 @@ The point of this project is to analyse and simulate real-world data using Pytho
 To run this project locally you are going to need Python(and its packages: Numpy, Pandas, Seaborn, Scipy and MatplotLib) and Jupyter Notebook as well. You can gey both of Python and Jupyter by downloading [Anaconda]( https://www.anaconda.com/products/distribution).
 You may need to install/update some of the Python's packages. You can do that by running the following commands:
 Numpy 
->pip install numpy
+'''pip install numpy'''
 
 Pandas 
->pip install pandas
+'''pip install pandas'''
 
 Seaborn
->pip install seaborn
+'''pip install seaborn'''
 
 MatPlotLib 
->pip install matplotlib
+'''pip install matplotlib'''
 
 Scypi
->pip install matplotlib
+'''pip install matplotlib'''
+
