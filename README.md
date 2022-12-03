@@ -34,12 +34,16 @@ pip install matplotlib
 
 ## What to expect
 
-A simulated dataset based on real world data. The dataset used as basis was The dataset used was the [Finger Print Dataset](https://repository.lboro.ac.uk/articles/dataset/Height_weight_and_fingerprint_measurements_collected_from_200_participants/7539206) from the University of Loughtborough, authored by **Beth McMurchie**, **George TorrensGeorge Torrens** and **Paul Kelly**. 
-This dataset was used as its authors states that the height and weights from the participants were measured, and it was real world data. 
+A simulated dataset based on real world data. The dataset used as basis was The dataset used was the [Finger Print Dataset](https://repository.lboro.ac.uk/articles/dataset/Height_weight_and_fingerprint_measurements_collected_from_200_participants/7539206) from the University of Loughtborough, authored by **Beth McMurchie**, **George TorrensGeorge Torrens** and **Paul Kelly**. This dataset was used as its authors states that the height and weights from the participants were measured, and it was real world data. 
+
 Cleaning of the dataset leaving only the relevant data for this project. Which is the height and weight of the participants.
+
 Calculation of the BMI for each participant using the information their height and weight.
+
 Showcase of the correlation between the BMI and height and weight and distribution of those variables for males and females participants.
+
 A new dataset created using Python’s Numpy random and the real-world data as basis, creation of plots to show the distribution of the new dataset for male and females.
+
 Comparison between the real-world dataset and the simulated one.
 
 ## References
