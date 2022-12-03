@@ -44,12 +44,12 @@ Comparison between the real-world dataset and the simulated one.
 
 ## References
 
-https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.skewnorm.html
-https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.normal.html
-https://www.math.arizona.edu/~rsims/ma464/standardnormaltable.pdf
-https://www.statisticshowto.com/probability-and-statistics/z-score/
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html
-https://www.cdc.gov/obesity/basics/adult-defining.html
-http://www.math.iup.edu/~clamb/class/math217/3_1-normal-distribution/
-https://plus.maths.org/content/normal-distribution
-https://en.wikipedia.org/wiki/Normal_distribution#cite_note-49
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.skewnorm.html
+- https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.normal.html
+- https://www.math.arizona.edu/~rsims/ma464/standardnormaltable.pdf
+- https://www.statisticshowto.com/probability-and-statistics/z-score/
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html
+- https://www.cdc.gov/obesity/basics/adult-defining.html
+- http://www.math.iup.edu/~clamb/class/math217/3_1-normal-distribution/
+- https://plus.maths.org/content/normal-distribution
+- https://en.wikipedia.org/wiki/Normal_distribution#cite_note-49
